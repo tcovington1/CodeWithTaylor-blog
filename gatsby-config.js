@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `Code With Taylor`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
+    description: `This is a personal blog where I share what I am learning in code/programming. I'll also discuss parenting, goals, nutrition, and wellness. Things I'm passionate about and I hope you are or will be too!`,
     author: `Taylor J Covington`,
   },
   plugins: [
