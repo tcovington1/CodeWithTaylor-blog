@@ -6,8 +6,7 @@ import styled from 'styled-components'
 import logo from '../images/lion-logo-transp.png'
 
 const HeaderWrapper = styled.div`
-  background: #def7f5;
-  margin-bottom: 1.45rem;
+  background: #e6fefd;
   color: black;
   img {
     margin-bottom: 0;

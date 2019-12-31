@@ -1,6 +1,7 @@
 import React, { Component } from 'react'
 import { graphql,  } from 'gatsby'
 
+import SEO from '../components/seo'
 import Layout from './layout'
 
 // Static Query
@@ -15,10 +16,11 @@ export default class postLayout extends Component {
     const { location } = this.props;
     return (
       <Layout location={location}>
-      <h1>{markdownRemark.frontmatter.title}</h1>
-      <div dangerouslySetInnerHTML={{
-        __html: markdownRemark.html
-      }}/>
+        <SEO title="Posts" />
+        <h1>{markdownRemark.frontmatter.title}</h1>
+        <div dangerouslySetInnerHTML={{
+          __html: markdownRemark.html
+        }}/>
       </Layout>
     )
   }
