@@ -1,6 +1,7 @@
 backend:
   name: github
   branch: master
+  repo: tcovington1/CodeWithTaylor-blog
 
 media_folder: static/img
 public_folder: /img
