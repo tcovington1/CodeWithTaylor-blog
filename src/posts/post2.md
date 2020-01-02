@@ -48,13 +48,22 @@ Anytime you're learning to code it's extremely important to build projects, big 
 
 While you're learning to code, your bootcamp cohort will also provide other opportunities IF YOU TAKE ADVANTAGE OF THEM. The first one I'd like to point out is creating a network. Your surrounded by other developers looking to get jobs in code, already working at a tech company, or they are teaching code! Create networks with the Teachers Assistants (TA), your teachers, the founders, and your cohort devs. 
 
-I'd also recommend using the mentors around you. In my cohort the founders provided workshops for updating your resume, social media, and presentations with bootcamp graduates. I'd also pick the brains of the Teachers Assistant (TA) and 
+I'd also recommend using the mentors around you. In my cohort the founders provided workshops for updating your resume, social media, and presentations with bootcamp graduates. I'd also pick the brains of the Teachers Assistant (TA) and the instructor (which were really good at DevPoint Labs). I'd ask about career advice, code advice, languages to learn, do and don'ts, interviewing questions/skills, etc. After my cohort I also reached out to a few of the TA's to ask about freelancing and building a personal portfolio.
 
-network (TA, teachers, founders, co-devs) keep journaling
+Before you end, make a game plan of what you'd like to accomplish after you graduate. Have a solid list of goals and todo's. Maybe a list of things you'd like to learn, re-study, companies you'd like to apply for, or things you want to build. This way if you feel like you're not sure what to do next after you graduate you have a clear path.
+
+Lastly, I'd also recommend you keep journalling through your bootcamp cohort. After I finished I went back and read my journal and there were many ups and downs but there's something about self-reflection when your writing (or typing) your thoughts and feelings. Part of me writing this blog post is my reflection of memories and my journal!
 
 ### After
 
-Reach out to people you networked with  Dont get discouraged if you don't know everything when you leave
-still journal
-stay present in the slack channel
-KEEP LEARNING
+At this point you've finally made it through your coding bootcamp! Yay to go! All that hard work WILL pay off IF you keep putting the work in. Many Devs think they are ready to jump in and land a job right after they finish their cohort. This CAN be done but from my experience and checking in on my cohorts progress this isn't the case. 
+
+First, I've recommend staying in touch with all the networks you've build during bootcamp. Don't let all that hard work you put in fade away. This is important not only to keep those friendships but also to work on projects together, bounce ideas off each other, have someone to ask questions to, and potentially could be your recommendation to land that first gig.
+
+Next, and this one is a big one, try not to get discouraged after leaving bootcamp that you're not landing a job or you don't feel like your progressing. I'm sure this happens to a lot of bootcamp grads. You just finished months of coding every day and you feel like you should come out knowing everything. Well.. that just isn't the case. You can't TRULY learn everything in three to six months. You can learn a lot! But not everything. I mentioned this before but go back and review your list of things you wanted to do after bootcamp and chip away at them. You'll keep progressing if you keep coding and learning. I'd recommend joining #100DaysOfCode on Twitter for this to make sure you're coding every day.
+
+When it comes to applying for jobs, my strategy has been to apply for whichever jobs interest you but if you REALLY want to work at that job, make sure you have an "in". A person that can refer you or put in a good word. Most likely you're still new so job postings might be scary to look at. But if someone can refer you, BAM! Keep networking. 
+
+A few last points, keep journalling (maybe even start a blog), build projects (a blog site or your personal portfolio), go to local meetups, join Slack channels, and KEEP LEARNING. You'll get there, I promise. 
+
+\- Taylor
