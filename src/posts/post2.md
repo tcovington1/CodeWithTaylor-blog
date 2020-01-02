@@ -66,4 +66,6 @@ When it comes to applying for jobs, my strategy has been to apply for whichever 
 
 A few last points, keep journalling (maybe even start a blog), build projects (a blog site or your personal portfolio), go to local meetups, join Slack channels, and KEEP LEARNING. You'll get there, I promise. 
 
+Whew, that was a lot. Thank you again for reading! I appreciate you.
+
 \- Taylor
