@@ -7,11 +7,14 @@ media_folder: static/img
 public_folder: /img
 
 collections:
-  - name: 'team'
-    label: 'Team'
-    folder: 'src/team'
+  - name: 'blog'
+    label: 'Blog'
+    folder: 'src/posts'
     create: true
     slug: '{{slug}}'
     fields:
-      - { label: 'Team Member', name: 'title', widget: 'string' }
-      - { label: 'Bio', name: 'bio', widget: 'markdown' }
+      - {label: "Slug", name: "slug", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Title", name: "title", widget: "string"}
+      # - {label: "Featured Image", name: "featuredimage", widget: image}
+      - {label: "Body", name: "body", widget: "markdown"}
