@@ -71,10 +71,9 @@ const Layout = ({ children, location }) => {
         </div>
         <Archive />
       </MainLayout>
-      <footer>
-        © {new Date().getFullYear()} {data.site.siteMetadata.author}, Built with
-        {` `}
-        <a href="https://www.gatsbyjs.org">Gatsby</a>
+      <footer style={{display: 'flex', justifyContent: 'space-around'}}>
+        © {new Date().getFullYear()} {data.site.siteMetadata.author}, Built with Gatsby
+          <a href="https://www.taylorjcovington">taylorjcovington.com</a>
       </footer>
     </>
   )
