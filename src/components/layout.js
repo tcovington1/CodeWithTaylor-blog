@@ -16,6 +16,7 @@ import { Spring } from 'react-spring/renderprops'
 import Header from "./header"
 import Archive from './archive'
 import "./layout.css"
+import "./styles.css"
 
 const MainLayout = styled.main`
   max-width: 90%;
@@ -23,6 +24,15 @@ const MainLayout = styled.main`
   display: grid;
   grid-template-columns: 3fr 1fr;
   grid-gap: 40px;
+
+  @media only screen and (max-device-width : 800px) {
+    max-width: 100%;
+    margin-bottom: 1em;
+    display: flex;
+    flex-direction: column;
+    padding: 1em;
+  }
+
 `;
 
 const Layout = ({ children, location }) => {
@@ -71,9 +81,13 @@ const Layout = ({ children, location }) => {
         </div>
         <Archive />
       </MainLayout>
-      <footer style={{display: 'flex', justifyContent: 'space-around'}}>
-        © {new Date().getFullYear()} {data.site.siteMetadata.author}, Built with Gatsby
-          <a href="https://www.taylorjcovington">taylorjcovington.com</a>
+      <footer style={{display: 'flex', flexDirection: 'column', justifyContent: 'space-around'}}>
+        <div className="footer-flex footer-link">
+          <a href="https://www.taylorjcovington">My Portfolio</a>
+        </div>
+        <div className="footer-flex">
+          © {new Date().getFullYear()} {data.site.siteMetadata.author}, Built with Gatsby
+        </div>
       </footer>
     </>
   )
