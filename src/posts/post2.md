@@ -1,7 +1,7 @@
 ---
-slug: /second-post
-date: '2019-10-17'
-title: What I've Learned at a Coding Bootcamp
+slug: /bootcamp-my-experience
+date: '2020-02-02'
+title: Coding Bootcamp - My Experience & What to Expect
 ---
 Hey there!
 
@@ -13,7 +13,7 @@ Note: This post is pretty long so break it up into sections and come back to it!
 
 ### Before
 
-Before I decided to go to a bootcamp I was teaching myself to code. I started about a year before, but it'd start and stop often when I felt discouraged or overwhelmed with having to choose a direction. There's so much information when you're getting started and it seems to keep changing. This still happens to me 2 years later!
+Before I decided to go to a bootcamp I was teaching myself to code. I started about a year before, but it'd start and stop often when I felt discouraged or overwhelmed with having to choose a direction. There's so much information when you're getting started and it seems to keep changing. This still happens to me sometimes a year later!
 
 Before you start at a bootcamp, the most important thing is to do your research on the camp you're going to. More and more nowadays there are bootcamps popping up, local and online.  I've heard a few stories about some camps getting you signed up, take your money, and don't fulfill their promises. So do some research. Here are a few sites that might help:
 
@@ -25,7 +25,7 @@ Go into the program, however long it is, with the mindset that it's short-term a
 
 1. You're paying for this
 2. You want to get the most out of it
-3.
+3. When you leave, you don't want to regret not taking advantage of that comes with it
 
 I'd also recommend journalling your journey from the beginning. It's healthy to reflect on your experiences and write down your thoughts. I started journaling starting day 1 and I can now reflect on my worries fitting in and getting over my imposter syndrome. 
 
