@@ -37,7 +37,7 @@ I started to really enjoy coding and building things. I loved to solve problems 
 
 I decided to take this career path seriously 11 months ago when I started my journey into a full-stack bootcamp at DevPoint Labs. I didn't start with a bootcamp though, for months I played with the idea of getting my degree in Computer Science or Software Development. The more I researched though, the college path just didn't seem like a good fit. Another 2 years of learning outdated information? Other Devs in the industry seemed to think you didn't need it either. 
 
-I needed something to really push myself every day and expand my knowledge. So about 5 months ago I decided to attend the bootcamp. It would also allow me to put the time into it that I needed each day. To be honest though, I was excited and scared to get started. To be away from my family 4 days a week was hard to swallow but they were extremely supportive and pushed me to follow my passion.
+I needed something to really push myself every day and expand my knowledge. So about in May 2019 I decided to attend the bootcamp. It would also allow me to put the time into it that I needed each day. To be honest though, I was excited and scared to get started. To be away from my family 4 days a week was hard to swallow but they were extremely supportive and pushed me to follow my passion.
 
 In my next blog post I'll share more about my experience with the bootcamp, but I just wanted to give you a little about my journey and who I am. I'll keep sharing things along the way as well.
 
