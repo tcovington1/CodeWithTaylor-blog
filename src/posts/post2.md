@@ -25,7 +25,7 @@ Go into the program, however long it is, with the mindset that it's short-term a
 
 1. You're paying for this
 2. You want to get the most out of it
-3.
+3. When you leave, you don't want to regret not taking advantage of that comes with it
 
 I'd also recommend journalling your journey from the beginning. It's healthy to reflect on your experiences and write down your thoughts. I started journaling starting day 1 and I can now reflect on my worries fitting in and getting over my imposter syndrome. 
 
