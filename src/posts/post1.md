@@ -19,7 +19,7 @@ Being a [\#CodeNewbie](https://twitter.com/search?q=%23CodeNewbie&src=typeahead_
 
 Currently I work in the finance and investing industry. The last 5 years I've been helping people save for retirement, college, and investing their money in stocks, mutual funds, ETFs, etc. I really enjoy helping people! But I've also grown a love for technology and building solutions for businesses. That's where my passion lies. 
 
-I didn't grow up wanting to be a developer. I did love videos games though! My passion has always been in business and creating things. I remember when I was about 16 years old I read a book called *'Rich Dad Poor Dad' by Robert T. Kiyosaki*  (if you haven't read it, I'd recommend it. You can find it [here](https://amzn.to/2Xksrfd)) and I was determined to work for myself. My dad always told me it was better to get a good job and get the benefits. But I was determined to do something else. 
+I didn't grow up wanting to be a developer. I did love videos games though! My passion has always been in business and creating things. I remember when I was about 16 years old I read a book called *'Rich Dad Poor Dad' by Robert T. Kiyosaki*  (if you haven't read it, I'd recommend it. You can find it [here](https://amzn.to/2Xksrfd)) and I was determined to work for myself. I was always told me it was better to get a good job and get the benefits. But I was determined to do something else. 
 
 I started to attend real estate and finance conferences in my area ( I was still about 16-17 years old ). One in particular was a real estate conference. I had to be the youngest person there.  Anyway, I had a passion for business! As I got older I lost what I wanted to do. I met the love of my life, got married, and had kids! Life is good ... and busy!
 
