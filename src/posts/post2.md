@@ -1,7 +1,7 @@
 ---
-slug: /second-post
+slug: /bootcamp-my-experience
 date: '2019-10-17'
-title: What I've Learned at a Coding Bootcamp
+title: Coding Bootcamp - My Experience & What to Expect
 ---
 Hey there!
 
