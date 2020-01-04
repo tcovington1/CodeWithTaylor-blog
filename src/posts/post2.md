@@ -1,6 +1,6 @@
 ---
 slug: /bootcamp-my-experience
-date: '2019-10-17'
+date: '2020-02-02'
 title: Coding Bootcamp - My Experience & What to Expect
 ---
 Hey there!
