@@ -1,7 +1,7 @@
 ---
-slug: /first-post
+slug: /about-me
 date: '2019-10-15'
-title: About Me
+title: About Me - My Story
 ---
 Hey there!
 
