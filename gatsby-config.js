@@ -29,7 +29,7 @@ module.exports = {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: `Code With Taylor Blog`,
-        short_name: `CodeWithTaylor`,
+        short_name: `CWT`,
         start_url: `/`,
         background_color: `#e6fefd`,
         theme_color: `#e6fefd`,
