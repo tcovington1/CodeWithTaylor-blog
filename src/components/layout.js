@@ -83,7 +83,7 @@ const Layout = ({ children, location }) => {
       </MainLayout>
       <footer style={{display: 'flex', flexDirection: 'column', justifyContent: 'space-around'}}>
         <div className="footer-flex footer-link">
-          <a href="https://www.taylorjcovington">My Portfolio</a>
+          <a href="https://www.taylorjcovington.com">My Portfolio</a>
         </div>
         <div className="footer-flex">
           © {new Date().getFullYear()} {data.site.siteMetadata.author}, Built with Gatsby
