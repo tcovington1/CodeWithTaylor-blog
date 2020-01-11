@@ -7,7 +7,7 @@ Hey there!
 
 Thank you for taking the time out of your busy day to read my blog! I appreciate you.
 
-Anyway, I know you're here to learn something and I wanted to start out by sharing a little about myself so you know the person behind all the words. First, I'm Taylor! I live in Salt Lake City, UT. Born and raised! I'm a husband, a father of two boys (ages 4 and 2), and I'm a [Latter-Day Saint](https://lds.org). You can also [follow my journey on Twitter](https://twitter.com/codewithtaylor). I'm not much of a writer but I want to share my story in hopes that it can help anyone looking to get started in web development. I also want to set an example to my wife and boys that you really can do anything if you put the work in.
+Anyway, I know you're here to learn something and I wanted to start out by sharing a little about myself so you know the person behind all the words. First, I'm Taylor! I live in Salt Lake City, UT. Born and raised! I'm a husband, a father of two boys (ages 4 and 2), and I'm a [Latter-Day Saint](https://lds.org). You can also [follow my journey on Twitter](https://twitter.com/codewithtaylor). I'm not much of a writer but I want to share my story in hopes that it can help anyone looking to get started in web development. I also want to set an example to my family that you really can do anything if you put the work in.
 
 ##### What You Can Expect From This Blog
 
@@ -19,13 +19,15 @@ Being a [\#CodeNewbie](https://twitter.com/search?q=%23CodeNewbie&src=typeahead_
 
 Currently I work in the finance and investing industry. The last 5 years I've been helping people save for retirement, college, and investing their money in stocks, mutual funds, ETFs, etc. I really enjoy helping people! But I've also grown a love for technology and building solutions for businesses. That's where my passion lies. 
 
-I didn't grow up wanting to be a developer. I did love videos games though! My passion has always been in business and creating things. I remember when I was about 16 years old I read a book called *'Rich Dad Poor Dad' by Robert T. Kiyosaki*  (if you haven't read it, I'd recommend it. You can find it [here](https://amzn.to/2Xksrfd)) and I was determined to work for myself. I was always told me it was better to get a good job and get the benefits. But I was determined to do something else. 
+As of right now, updated 01/08/2020, I specialize in full-stack web development using React.js and Ruby on Rails.
+
+I didn't grow up wanting to be a developer though. I did love videos games though! My passion has always been in business and creating things. I remember when I was about 16 years old I read a book called *'Rich Dad Poor Dad' by Robert T. Kiyosaki*  (if you haven't read it, I'd recommend it. You can find it [here](https://amzn.to/2Xksrfd)) and I was determined to build something great! I was always told me it was better to get a good job and get the benefits. But I was determined to do something else. 
 
 I started to attend real estate and finance conferences in my area ( I was still about 16-17 years old ). One in particular was a real estate conference. I had to be the youngest person there.  Anyway, I had a passion for business! As I got older I lost what I wanted to do. I met the love of my life, got married, and had kids! Life is good ... and busy!
 
 I decided I wanted to study finance and help clients with trading stock and plan their retirement. I've really enjoyed doing this and I've learned so much. I did this at a large financial company and am I still with that company 9 years later. 
 
-Although I enjoy what I do, I wanted to start looking for what I am most passionate about and build a career around it. I decided I wanted to look at other methods of passive income. To build a business of my own. I looked at things like Merch by Amazon (which I still do and love it), dropshipping, and FBA. As I was doing this I had an idea to build my own Web site and sell t-shirts there.  As I started to code, I found that I get lost in building things and this is where I wanted to spend my time.
+Although I enjoy what I do, I wanted to start looking for what I am most passionate about and build a career around it. I decided I wanted to look at other methods of passive income. To build a business of my own. I looked at things like Merch by Amazon (which I still do and love it), dropshipping, and FBA. As I was doing this I had an idea to build my own Web site and sell t-shirts there.  As I started to code, I found that I get lost in building web sites and applications and this is where I wanted to spend my time. 
 
 ##### Started Teaching Myself To Code
 
@@ -45,7 +47,7 @@ In my next blog post I'll share more about my experience with the bootcamp, but 
 
 Well.... I'm still learning! Everyday actually and I still haven't built that site I wanted initially. BUT that's why I'm sharing my journey now. Many developers wished they started typing earlier. Well.... I'm going to do it. 
 
-What I want out of this is to be a full-stack developer. I'd love to obtain a full-time position working in web development. While I'm learning my plan is to build site and projects. I want to build solutions on the back-end for data and authentication, then I'll work on making the site functional, user-friendly and polished on the front-end (client side). I want to find the best stack to accomplish this task. Which means I'll need to be diverse in my understanding of other languages. Lastly I'll deploy the site for clients.  Right now I have learned Ruby, Ruby on Rails (for the back-end), ReactJS, GatsbyJS, HTML, CSS, and Postgresql (server). 
+What I want out of this is to be a full-stack developer. I'd love to obtain a full-time position working in web development. While I'm learning my plan is to build site and projects. I want to build solutions on the back-end for data and authentication, then I'll work on making the site functional, user-friendly and polished on the front-end (client side). I want to find the best stack to accomplish this task. Which means I'll need to be diverse in my understanding of other languages. Lastly I'll deploy the site for clients.  Right now I have learned Ruby, Ruby on Rails (for the back-end), React.js, Gatsby.js, HTML, CSS, and Postgresql (server). 
 
 I also want to mentor other [\#CodeNewbies](https://twitter.com/search?q=%23CodeNewbie&src=typeahead_click) and make it an easier transition into development. I want to be available to those that need help. Be a guide if anyone needs it. So reach out if you need help! If I don't know the answer, we can find it together.
 
