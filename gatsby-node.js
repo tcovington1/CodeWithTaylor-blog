@@ -4,10 +4,10 @@
 const path = require('path');
 
 
-exports.createPages = ({ graphql, actions }) => {
+exports.createPages = async function({ graphql, actions }) {
   const { createPage } = actions;
   return new Promise((resolve, reject) => {
-    graphql(`
+    await graphql(`
       {
         allMarkdownRemark {
           edges {
@@ -21,7 +21,7 @@ exports.createPages = ({ graphql, actions }) => {
       }
     `).then(results => {
       results.data.allMarkdownRemark.edges.forEach(({node}) => {
-        createPage({
+        actions.createPage({
           path: `/posts${node.frontmatter.slug}`,
           component: path.resolve('./src/components/postLayout.js'),
           context: {
