@@ -1,5 +1,5 @@
 ---
-slug: ' /100_days_note_before'
+slug: ' /100-days-note-before'
 date: ' 01/31/2020'
 title: ' #100DaysOfCode (RD 2) - Note Before Starting'
 ---
