@@ -1,6 +1,6 @@
 ---
 slug: ' /100_days_of_code'
-date: 01 31
+date: '2020-01-31'
 title: ' #100DaysOfCode (RD 2)'
 ---
 Hey thank you for coming on this journey with me!
