@@ -13,18 +13,11 @@ The first round I did of #100DaysOfCode was really successful. Check it out on m
 
 I'm going to post what I'm working on every day here in this blog. In these 100 days I want to:         
 
-1) Blog and post my progress often         
-
-2) Code and contribute to GitHub daily (obvious one)
-        
-
-3) Build build build - a goal of mine is to really push building full-stack app 
-            and web sites without a tutorial. I want to get stuck, search the docs, and 
+1. Blog and post my progress often         
+2. Code and contribute to GitHub daily (obvious one)
+3. Build build build - a goal of mine is to really push building full-stack app           and web sites without a tutorial. I want to get stuck, search the docs, and 
             fix it. I want to design in Sketch, then build it all the way through.
-       
-
-4) Work as a full-time developer. I'll be spending a lot of time interview 
-             prepping, and hopefully interviewing!
+4. Work as a full-time developer. I'll be spending a lot of time interview            prepping, and hopefully interviewing!
 
 So come back to it when you want to check in to see where I'm at.  A LOT can happen in 100 days, so come on this journey with me!
 
