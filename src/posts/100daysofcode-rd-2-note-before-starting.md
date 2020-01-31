@@ -1,6 +1,6 @@
 ---
 slug: ' /100-days-note-before'
-date: '2020-01-31'
+date: 'January 31, 2020'
 title: ' #100DaysOfCode (RD 2) - Note Before Starting'
 ---
 Ayo! 
