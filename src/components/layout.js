@@ -5,12 +5,18 @@
  * See: https://www.gatsbyjs.org/docs/use-static-query/
  */
 
+
 import React from "react"
 import PropTypes from "prop-types"
-import { useStaticQuery, graphql } from "gatsby"
+import { useStaticQuery, graphql, Link } from "gatsby"
 import styled from 'styled-components'
 import Img from 'gatsby-image'
 import { Spring } from 'react-spring/renderprops'
+import { Icon, InlineIcon } from '@iconify/react';
+import twitterIcon from '@iconify/icons-logos/twitter';
+import githubIcon from '@iconify/icons-logos/github-icon';
+
+
 
 
 import Header from "./header"
@@ -87,6 +93,11 @@ const Layout = ({ children, location }) => {
         </div>
         <div className="footer-flex">
           © {new Date().getFullYear()} {data.site.siteMetadata.author}, Built with Gatsby
+        </div>
+        <div className="footer-flex">
+          <Link to='https://twitter.com/codewithtaylor'>
+            <img src={twitterIcon}/>
+          </Link>
         </div>
       </footer>
     </>

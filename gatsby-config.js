@@ -3,7 +3,7 @@ module.exports = {
     title: `Code With Taylor`,
     description: `This is a personal blog where I share what I am learning in code/programming. I'll also discuss parenting, goals, nutrition, and wellness. Things I'm passionate about and I hope you are or will be too!`,
     author: `Taylor J Covington`,
-    siteUrl: 'https://codewithtaylor.netlify.com'
+    siteUrl: 'https://codewithtaylor.com/'
   },
   plugins: [
     `gatsby-plugin-sitemap`,
