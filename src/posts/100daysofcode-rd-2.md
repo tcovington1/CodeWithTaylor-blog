@@ -5,7 +5,7 @@ title: ' #100DaysOfCode (RD 2)'
 ---
 Hey thank you for coming on this journey with me!
 
-I'll be updating this post each day with what I'm working on, what I did, and thoughts a long the way! So come back when you'd like to see what's been going on. In my previous [post](<>) I mentioned some goals I'll be looking to achieve during these 100 days of coding.
+I'll be updating this post each day with what I'm working on, what I did, and thoughts a long the way! So come back when you'd like to see what's been going on. In my previous [post](https://codewithtaylor.com/posts%20/100-days-note-beforehttps://codewithtaylor.com/posts%20/100-days-note-before) I mentioned some goals I'll be looking to achieve during these 100 days of coding.
 
 Before I started, here's a little context about what I've been working on:
 
