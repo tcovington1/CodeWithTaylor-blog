@@ -17,7 +17,7 @@ Let's get started!
 
 ### **Day 1:**        
 
-\-Last night I spent a lot of time working on my NFL project trying to figure out how to  click a PlayerCard component  I mapped from my database and go to a "show" page for that player using the ID. This morning I started looking through the [Rails Router](<https://guides.rubyonrails.org/routing.html>) documentation and was able to figure out what I needed! In my Rails routes file I just needed to add the `/:id` like this:
+* Last night I spent a lot of time working on my NFL project trying to figure out how to  click a PlayerCard component  I mapped from my database and go to a "show" page for that player using the ID. This morning I started looking through the [Rails Router](<https://guides.rubyonrails.org/routing.html>) documentation and was able to figure out what I needed! In my Rails routes file I just needed to add the `/:id` like this:
 
 ```
      namespace :api do
