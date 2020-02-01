@@ -1,5 +1,7 @@
 import React, { Component } from 'react'
 import { graphql,  } from 'gatsby'
+import { Link } from "gatsby"
+
 
 import SEO from '../components/seo'
 import Layout from './layout'
@@ -21,6 +23,7 @@ export default class postLayout extends Component {
         <div dangerouslySetInnerHTML={{
           __html: markdownRemark.html
         }}/>
+        <button className='btn'><Link to='/' className='btn-link'>Back</Link></button>
       </Layout>
     )
   }
