@@ -15,7 +15,7 @@ const SecondPage = () => {
         excerpt
         frontmatter {
           title
-          date(formatString: "MMM DD, YYYY")
+          # date(formatString: "MMM DD, YYYY")
           slug
         }
       }
