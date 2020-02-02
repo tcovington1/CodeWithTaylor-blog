@@ -1,15 +1,15 @@
 ---
 slug: ' /100-days-note-before'
-date: '2020-01-31'
+date: '2020-01-30'
 title: ' #100DaysOfCode (RD 2) - Note Before Starting'
 ---
 Ayo! 
 
-Thank you for reading. I've decided I'm going to start round 2 of #100DaysOfCode from [Twitter](https://twitter.com/codewithtaylor). If you are not familiar, check it out [here](https://twitter.com/search?q=%23100DaysOfCode&src=typeahead_click). Twitter has a fantastic dev community. There are a ton of new people learning to code with you. You are not alone. When you struggle, there is someone out there struggling as well.
+I've decided I'm going to start round 2 of #100DaysOfCode from [Twitter](https://twitter.com/codewithtaylor). You're probably familiar with the hashtag already, but if not check it out [here](https://twitter.com/search?q=%23100DaysOfCode&src=typeahead_click). Twitter has a fantastic dev community! There are a ton of new people learning to code with you, so it's nice knowing you're not alone. When you struggle, there is someone out there struggling as well.
 
-The first round I did of #100DaysOfCode was really successful. Check it out on my [Twitter page](https://twitter.com/codewithtaylor). I started it before I went into my dev bootcamp, and ended after I finished. It helped my stay accountable and sharing my progress. 
+The first round I did of #100DaysOfCode was really successful. Check it out on my [Twitter page](https://twitter.com/codewithtaylor). I started it before I went into my dev bootcamp, and ended after I finished. It helped me stay accountable and sharing my progress. 
 
-### \--- Goals ---
+### --- Goals ---
 
 I'm going to post what I'm working on every day here in this blog. In these 100 days I want to:         
 
