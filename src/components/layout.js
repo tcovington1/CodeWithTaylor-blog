@@ -91,6 +91,9 @@ const Layout = ({ children, location }) => {
         <div className="footer-flex footer-link">
           <a href="https://www.taylorjcovington.com">My Portfolio</a>
         </div>
+        <div className="footer-flex footer-link">
+          <a href="https://www.taylorjcovington.com/#contact">Send a Message</a>
+        </div>
         <div className="footer-flex">
           © {new Date().getFullYear()} {data.site.siteMetadata.author}, Built with Gatsby
         </div>
