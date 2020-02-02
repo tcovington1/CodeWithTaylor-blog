@@ -11,19 +11,21 @@ Today I want to share some resources that I feel are helpful when you're startin
 
 First, anytime you start a journey it's best to know where you're going. Some sort of roadmap. Web development is so broad that it can be very overwhelming. This is why you may hear people say you need to pick either front-end (what the viewer interacts with, what you see on the web site), the back-end (server-side, database, web site logic, where you store data), or even DevOps. 
 
-To get an idea of what all this means, I want to introduce the 2020 [Web Developer Roadmap](https://levelup.gitconnected.com/the-2020-web-developer-roadmap-76503ddfb327). In this article you'll find each section of the roadmap and some resources to get started on your path. I STILL look at this often to see where I'm heading. 
+To get an idea of what all this means, I want to introduce the 2020 [Web Developer Roadmaps](https://roadmap.sh/https://roadmap.sh/). In this site you'll find each section of the roadmap and some resources to get started on your path. I STILL look at this often to see where I'm heading. 
 
 TIP: Use this road map to write down what you're going to learn next.
 
+Here is also another [article](https://levelup.gitconnected.com/the-2020-web-developer-roadmap-76503ddfb327) that explains each section of the roadmap.
+
 ### Git/GitHhub
 
-As you're getting started you WILL want to get familiar with using (Git)\[https://try.github.io/] and [GitHub](https://github.com/). Git is a version control system. It allows you to save your progress and go back to a previously saved point if you need to. It's great if you're wanting to try something new, and if you like it you can "merge" it with your previously saved point. GitHub is where you'll store all your code. It's also where you'll collaborate with other developers on projects, merge code together, and showcase all your sweet websites. I use both daily and they are extremely helpful. It can be a bit intimidating at first, but practice makes perfect so just keep going. 
+As you're getting started you WILL want to get familiar with using [Git](https://try.github.io/) and [GitHub](https://github.com/). Git is a version control system. It allows you to save your progress and go back to a previously saved point if you need to. It's great if you're wanting to try something new, and if you like it you can "merge" it with your previously saved point. GitHub is where you'll store all your code. It's also where you'll collaborate with other developers on projects, merge code together, and showcase all your sweet websites. I use both daily and they are extremely helpful. It can be a bit intimidating at first, but practice makes perfect so just keep going. 
 
 ### Learning to Code
 
 Well if you're like me you're eager to get into the FUN stuff, actually writing some code. I've added some links below to a few sites I'd recommend to get started. I've also added my thoughts on each platform.
 
-#### freecodecamp.org 
+#### freecodecamp.org
 
 * This is an excellent place to get started. You can sign up for FREE and you'll work on little projects which makes it fun. You can also work towards a certificate of completion. I personally never got a certificate. I used this site to supplement what I was already learning. But I'd say get started here.
 
@@ -49,7 +51,7 @@ Well if you're like me you're eager to get into the FUN stuff, actually writing 
 
 #### Podcasts
 
-* I absolutely LOVE listening to coding podcasts. Yeah.... I used to listen to music in the car.... or when I work out.... but now I listen to my long list of podcasts. It's a way to learn  about new technology, understand something you've been learning, or just feel like you're not along. 
+* I absolutely LOVE listening to coding podcasts. Yeah.... I used to listen to music in the car.... or when I work out.... but now I listen to my long list of podcasts. It's a way to learn  about new technology, understand something you've been learning, or just feel like you're not alone. 
 
 Here's a few podcasts that I love:
 
@@ -64,9 +66,9 @@ Here's a few podcasts that I love:
   * Interviewing help -[CodeNewbie](https://www.codenewbie.org/podcast)
   * Great information even for me a year later
 
-### Icons 
+### Icons
 
-####    [Iconify](https://iconify.design/icon-sets/)
+#### [Iconify](https://iconify.design/icon-sets/)
 
 * I finally found a good icon library that has all the icons you'll need for your site! I used [Font Awesome](https://fontawesome.com/) (and still do) but this site has everything I need so far.
 
@@ -90,6 +92,6 @@ Here's a few links that can help create by Simple Programmer:
 * [YouTube Page](https://www.youtube.com/channel/UCRxWW_Ncs308nW4An23Yeig)
 * [The Complete Software Developer's Career Guide](https://amzn.to/2RO0U4I)
 
-I really hope this list of resources helps! I'll keep adding to this list as I go, or maybe make a new blog with additional resources. For now, I feel this is a good one to get started. Enjoy!
+I really hope this list of resources is found helpful. It's not everything you'll need, just a few things I've found helpful! I'll keep adding to this list as I go, or maybe make a new blog with additional resources. Enjoy!
 
 \-Taylor
