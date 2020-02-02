@@ -24,6 +24,7 @@ export default class postLayout extends Component {
           __html: markdownRemark.html
         }}/>
         <button className='btn'><Link to='/' className='btn-link'>Back</Link></button>
+        <button className='btn' style={{marginLeft: '1em'}}><a href='https://www.taylorjcovington.com/#contact' className='btn-link'>Send a Message</a></button>
       </Layout>
     )
   }
