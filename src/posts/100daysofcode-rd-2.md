@@ -15,9 +15,9 @@ I'm also working on my spare time (after my full-time job, parenting, and being 
 
 Let's get started!
 
-### **Day 1:**        
+### **Day 1:**
 
-* Last night I spent a lot of time working on my NFL project trying to figure out how to  click a PlayerCard component  I mapped from my database and go to a "show" page for that player using the ID. This morning I started looking through the [Rails Router](<https://guides.rubyonrails.org/routing.html>) documentation and was able to figure out what I needed! In my Rails routes file I just needed to add the `/:id` like this:
+* Last night I spent a lot of time working on my NFL project trying to figure out how to  click a PlayerCard component  I mapped from my database and go to a "show" page for that player using the ID. This morning I started looking through the [Rails Router](https://guides.rubyonrails.org/routing.html) documentation and was able to figure out what I needed! In my Rails routes file I just needed to add the `/:id` like this:
 
 ```
      namespace :api do
@@ -28,3 +28,13 @@ Let's get started!
 
 * I also make a few updates to my [personal portfolio site](https//:taylorjcovington.com). All I did was update the image size so the image load time was much quicker.
 * I've create this blog post to get the ball rolling
+
+
+
+### Day 2
+
+* Today I worked on the NFL app. I built out the PlayerShow page to actually show the players information. For some reason in my form when I choose if the player is a starter (it's a boolean) it's not updating the true/false in the DB so I'll need to figure that out. 
+
+* I also added the Devise gem and Context API AuthProvider to the project. My plan for this is to allow an admin login to add, edit, and delete players ONLY if logged in. I've also update the navbar to show if you're logged in or not.
+
+* Tip of the day: Use [Iconify](https://iconify.design/icon-sets/https://iconify.design/icon-sets/) for icons in your projects. It has every icon you'll need for your project. 
