@@ -31,8 +31,8 @@ const Header = ({ siteTitle }) => (
             textDecoration: `none`,
           }}
         >
-          {/* <img style={{width: '100px'}} src={logo} alt="logo"/> */}
-          <img src={cwt} style={{ marginLeft: '1em', marginTop: '.2em'}}/>
+          <img style={{width: '100px'}} src={logo} alt="logo"/>
+          {/* <img src={cwt} style={{ marginLeft: '1em', marginTop: '.2em'}}/> */}
           {/* {siteTitle} */}
         </Link>
       </h1>
