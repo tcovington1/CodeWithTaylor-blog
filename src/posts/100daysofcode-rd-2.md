@@ -36,3 +36,11 @@ Let's get started!
 * Today I worked on the NFL app. I built out the PlayerShow page to actually show the players information. For some reason in my form when I choose if the player is a starter (it's a boolean) it's not updating the true/false in the DB so I'll need to figure that out. 
 * I also added the Devise gem and Context API AuthProvider to the project. My plan for this is to allow an admin login to add, edit, and delete players ONLY if logged in. I've also update the navbar to show if you're logged in or not.
 * Tip of the day: Use [Iconify](https://iconify.design/icon-sets/https://iconify.design/icon-sets/) for icons in your projects. It has every icon you'll need for your project.
+
+---
+
+### Day 3
+
+* I didn't get much done today, sick kids and the Super Bowl took most of my time. 
+* Today I studied how to implement a search feature in my React on Rails NFL player site. My idea is I want users to be able to search both teams to show Utah Ute players on that team, or search by player name.
+* I also spend time researching how to add a "like" button to my blog site. No luck here yet so I'll spend more time researching.
