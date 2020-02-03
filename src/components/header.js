@@ -4,6 +4,7 @@ import React from "react"
 import styled from 'styled-components'
 
 import logo from '../images/lion-logo-transp.png'
+import cwt from '../images/cwt.svg'
 
 const HeaderWrapper = styled.div`
   background: #f1f3f3;
@@ -30,7 +31,8 @@ const Header = ({ siteTitle }) => (
             textDecoration: `none`,
           }}
         >
-          <img style={{width: '100px'}} src={logo} alt="logo"/>
+          {/* <img style={{width: '100px'}} src={logo} alt="logo"/> */}
+          <img src={cwt} style={{ marginLeft: '1em', marginTop: '.2em'}}/>
           {/* {siteTitle} */}
         </Link>
       </h1>

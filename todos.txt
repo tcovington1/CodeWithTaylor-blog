@@ -1,0 +1,4 @@
+Things that need to get done:
+
+- Add likes to postLayout component for each post
+- add a contact page
