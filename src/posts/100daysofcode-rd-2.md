@@ -44,3 +44,10 @@ Let's get started!
 * I didn't get much done today, sick kids and the Super Bowl took most of my time. 
 * Today I studied how to implement a search feature in my React on Rails NFL player site. My idea is I want users to be able to search both teams to show Utah Ute players on that team, or search by player name.
 * I also spend time researching how to add a "like" button to my blog site. No luck here yet so I'll spend more time researching.
+---
+### Day 4
+* Today I started a new freelance project for a local client. We are rebuilding their videography website using React.js! Today was the setup day:
+  1) Started the VS Code project using ```create-react-app```
+  2) Added ```react-router-dom``` for my routes
+  3) Setup the file structure for the project
+* **Dad Aside** - My 2 year old son keeps getting a cold and can't ever kick the cough. He had lung surgery at 5 months old so our pediatrician is thinking he has asthma anytime he gets sick. So right now he has to do a steroid mask three times a day. 
