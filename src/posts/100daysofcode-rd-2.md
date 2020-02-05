@@ -51,3 +51,7 @@ Let's get started!
   2) Added ```react-router-dom``` for my routes
   3) Setup the file structure for the project
 * **Dad Aside** - My 2 year old son keeps getting a cold and can't ever kick the cough. He had lung surgery at 5 months old so our pediatrician is thinking he has asthma anytime he gets sick. So right now he has to do a steroid mask three times a day. 
+---
+### Day 5
+* Started on the navbar for the freelance videography website. My goal is to learn new ways to do a navbar, write clean code, and think about my comments and how it might help another developer in the future. I also want to focus on scalability.
+* A **thought for today** ... All of this will pay off. The goal is to be a developer full-time. I know the hard work and hustle will pay off eventually. For now, the focus is on writing good code, learn something new every day, and network with anyone and everyone to build real connections in the community. The goal is to hustle harder.
