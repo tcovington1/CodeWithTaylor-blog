@@ -15,7 +15,7 @@ I'm also working on my spare time (after my full-time job, parenting, and being 
 
 Let's get started!
 
-###  **Day 1**
+### **Day 1**
 
 * Last night I spent a lot of time working on my NFL project trying to figure out how to  click a PlayerCard component  I mapped from my database and go to a "show" page for that player using the ID. This morning I started looking through the [Rails Router](https://guides.rubyonrails.org/routing.html) documentation and was able to figure out what I needed! In my Rails routes file I just needed to add the `/:id` like this:
 
@@ -37,26 +37,36 @@ Let's get started!
 * I also added the Devise gem and Context API AuthProvider to the project. My plan for this is to allow an admin login to add, edit, and delete players ONLY if logged in. I've also update the navbar to show if you're logged in or not.
 * Tip of the day: Use [Iconify](https://iconify.design/icon-sets/https://iconify.design/icon-sets/) for icons in your projects. It has every icon you'll need for your project.
 
----
+- - -
 
 ### Day 3
 
 * I didn't get much done today, sick kids and the Super Bowl took most of my time. 
 * Today I studied how to implement a search feature in my React on Rails NFL player site. My idea is I want users to be able to search both teams to show Utah Ute players on that team, or search by player name.
 * I also spend time researching how to add a "like" button to my blog site. No luck here yet so I'll spend more time researching.
----
+
+- - -
+
 ### Day 4
+
 * Today I started a new freelance project for a local client. We are rebuilding their videography website using React.js! Today was the setup day:
-  1) Started the VS Code project using ```create-react-app```
-  2) Added ```react-router-dom``` for my routes
-  3) Setup the file structure for the project
-* **Dad Aside** - My 2 year old son keeps getting a cold and can't ever kick the cough. He had lung surgery at 5 months old so our pediatrician is thinking he has asthma anytime he gets sick. So right now he has to do a steroid mask three times a day. 
----
+
+  1. Started the VS Code project using `create-react-app`
+  2. Added `react-router-dom` for my routes
+  3. Setup the file structure for the project
+* **Dad aside:** My 2 year old son keeps getting a cold and can't ever kick the cough. He had lung surgery at 5 months old so our pediatrician is thinking he has asthma anytime he gets sick. So right now he has to do a steroid mask three times a day. 
+
+- - -
+
 ### Day 5
+
 * Started on the navbar for the freelance videography website. My goal is to learn new ways to do a navbar, write clean code, and think about my comments and how it might help another developer in the future. I also want to focus on scalability.
-* A **thought for today** ... All of this will pay off. The goal is to be a developer full-time. I know the hard work and hustle will pay off eventually. For now, the focus is on writing good code, learn something new every day, and network with anyone and everyone to build real connections in the community. The goal is to hustle harder.
----
+* A  **thought for the day** ... All of this will pay off. The goal is to be a developer full-time. I know the hard work and hustle will pay off eventually. For now, the focus is on writing good code, learn something new every day, and network with anyone and everyone to build real connections in the community. The goal is to hustle harder.
+
+- - -
+
 ## Day 6
+
 * Wife's birthday today so I didn't get much coding in. I did research how to create logos using [Sketch](https://www.sketch.com) though. A passion of mine is front-end design and I'd love to learn how to create logos for my projects. There's no better way to learn, just do it.
 * I also worked on making a navbar responsive.
-* I also continued working on my network in the dev community both on Twitter and locally. A door to an opportunity closed for now, but that does not mean it'll be closed forever. My time will come. 
+* I also continued working on my network in the dev community both on Twitter and locally. A door to an opportunity closed for now, but that does not mean it'll be closed forever. My time will come.
