@@ -55,3 +55,8 @@ Let's get started!
 ### Day 5
 * Started on the navbar for the freelance videography website. My goal is to learn new ways to do a navbar, write clean code, and think about my comments and how it might help another developer in the future. I also want to focus on scalability.
 * A **thought for today** ... All of this will pay off. The goal is to be a developer full-time. I know the hard work and hustle will pay off eventually. For now, the focus is on writing good code, learn something new every day, and network with anyone and everyone to build real connections in the community. The goal is to hustle harder.
+---
+## Day 6
+* Wife's birthday today so I didn't get much coding in. I did research how to create logos using [Sketch](https://www.sketch.com) though. A passion of mine is front-end design and I'd love to learn how to create logos for my projects. There's no better way to learn, just do it.
+* I also worked on making a navbar responsive.
+* I also continued working on my network in the dev community both on Twitter and locally. A door to an opportunity closed for now, but that does not mean it'll be closed forever. My time will come. 
