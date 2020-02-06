@@ -43,7 +43,7 @@ Let's get started!
 
 * I didn't get much done today, sick kids and the Super Bowl took most of my time. 
 * Today I studied how to implement a search feature in my React on Rails NFL player site. My idea is I want users to be able to search both teams to show Utah Ute players on that team, or search by player name.
-* I also spend time researching how to add a "like" button to my blog site. No luck here yet so I'll spend more time researching.
+* I also spent time researching how to add a "like" button to my blog site. No luck here yet so I'll spend more time researching.
 
 - - -
 
