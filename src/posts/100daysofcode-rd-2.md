@@ -5,7 +5,7 @@ title: ' #100DaysOfCode (RD 2)'
 ---
 Hey thank you for coming on this journey with me!
 
-I'll be updating this post each day with what I'm working on, what I did, and thoughts a long the way! So come back when you'd like to see what's been going on. In my previous [post](https://codewithtaylor.com/posts%20/100-days-note-beforehttps://codewithtaylor.com/posts%20/100-days-note-before) I mentioned some goals I'll be looking to achieve during these 100 days of coding.
+I'll be updating this post often with what I'm working on, what I did, and thoughts a long the way! So come back when you'd like to see what's been going on. In my previous [post](https://codewithtaylor.com/posts%20/100-days-note-beforehttps://codewithtaylor.com/posts%20/100-days-note-before) I mentioned some goals I'll be looking to achieve during these 100 days of coding.
 
 Before I started, here's a little context about what I've been working on:
 
@@ -73,10 +73,10 @@ Let's get started!
 
 ---
 
-### Day 11
+### Days 7 - 11
 February 10th, 2020
 * It's been a busy week. Over the weekend I decided to start a larger React on Rails project called *DevChat*. I wanted to start a project with more advanced associations such as a User has many Posts and Posts have many comments. Then Posts belong to Users, and comments belongs to Posts. These associations are created in your routes.
 * Today I got my first rejection email from a company I applied for in early January. The first interview went really well, the team was great! I then met a week later with the CEO. To be honest, I thought I did really well and impressed the team. But this time it just didn't work out. I'll be writing another post about this first coding interview soon.
 * I also had another interview for another company. The interview was a video chat that lasted about 15 minutes. Mostly general questions about me, my projects, why development. Things went well! A few hours later a received a rejection email. So 0/2 so far but the hustle doesn't stop
-* A recent phrase I've learned is **Humble & Hungry **, I think I'll start living my this because I feel like it explains who I am well. 
+* A recent phrase I've learned is **Humble & Hungry**, I think I'll start living my this because I feel like it explains who I am well. 
 * Lastly, I started a course on Udemy to learn the MERN stack. I want more flexibility with my apps and to add this to my stack offering!
