@@ -65,8 +65,18 @@ Let's get started!
 
 - - -
 
-## Day 6
+### Day 6
 
 * Wife's birthday today so I didn't get much coding in. I did research how to create logos using [Sketch](https://www.sketch.com) though. A passion of mine is front-end design and I'd love to learn how to create logos for my projects. There's no better way to learn, just do it.
 * I also worked on making a navbar responsive.
 * I also continued working on my network in the dev community both on Twitter and locally. A door to an opportunity closed for now, but that does not mean it'll be closed forever. My time will come.
+
+---
+
+### Day 11
+February 10th, 2020
+* It's been a busy week. Over the weekend I decided to start a larger React on Rails project called *DevChat*. I wanted to start a project with more advanced associations such as a User has many Posts and Posts have many comments. Then Posts belong to Users, and comments belongs to Posts. These associations are created in your routes.
+* Today I got my first rejection email from a company I applied for in early January. The first interview went really well, the team was great! I then met a week later with the CEO. To be honest, I thought I did really well and impressed the team. But this time it just didn't work out. I'll be writing another post about this first coding interview soon.
+* I also had another interview for another company. The interview was a video chat that lasted about 15 minutes. Mostly general questions about me, my projects, why development. Things went well! A few hours later a received a rejection email. So 0/2 so far but the hustle doesn't stop
+* A recent phrase I've learned is **Humble & Hungry **, I think I'll start living my this because I feel like it explains who I am well. 
+* Lastly, I started a course on Udemy to learn the MERN stack. I want more flexibility with my apps and to add this to my stack offering!
