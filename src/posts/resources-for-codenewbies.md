@@ -1,5 +1,5 @@
 ---
-slug: '/code_resources'
+slug: /code_resources
 date: '2020-02-01'
 title: ' Resources for #CodeNewbies'
 ---

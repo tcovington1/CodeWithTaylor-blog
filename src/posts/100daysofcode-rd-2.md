@@ -1,5 +1,5 @@
 ---
-slug: '/100_days_of_code'
+slug: /100_days_of_code
 date: '2020-01-31'
 title: ' #100DaysOfCode (RD 2)'
 ---
