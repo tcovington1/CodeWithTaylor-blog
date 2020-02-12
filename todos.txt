@@ -2,3 +2,6 @@ Things that need to get done:
 
 - Add likes to postLayout component for each post
 - add a contact page
+
+-- I've added in gatsby.config an updated at field, this could be good to
+    render on the postLayout component.

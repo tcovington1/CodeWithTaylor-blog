@@ -3,6 +3,7 @@ import PropTypes from "prop-types"
 import React from "react"
 import styled from 'styled-components'
 
+
 import logo from '../images/lion-logo-transp.png'
 import cwt from '../images/cwt.svg'
 
@@ -16,6 +17,7 @@ const HeaderWrapper = styled.div`
 `;
 
 const HeaderContainer = styled.div`
+display: flex;
   margin: 0 auto;
   max-width: 850;
   /* padding: 0.5rem; */
@@ -33,9 +35,9 @@ const Header = ({ siteTitle }) => (
         >
           <img style={{width: '100px'}} src={logo} alt="logo"/>
           {/* <img src={cwt} style={{ marginLeft: '1em', marginTop: '.2em'}}/> */}
-          {/* {siteTitle} */}
         </Link>
       </h1>
+          {/* <h1 style={{paddingTop: '.5em', fontFamily: 'Questrial, sans-serif'}}>{siteTitle}</h1> */}
     </HeaderContainer>
   </HeaderWrapper>
 )

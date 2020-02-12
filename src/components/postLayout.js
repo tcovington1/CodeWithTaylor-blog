@@ -20,6 +20,7 @@ export default class postLayout extends Component {
       <Layout location={location}>
         <SEO title="Posts" />
         <h1>{markdownRemark.frontmatter.title}</h1>
+        <p><i>Created: {markdownRemark.frontmatter.date}</i></p>
         <div dangerouslySetInnerHTML={{
           __html: markdownRemark.html
         }}/>
@@ -40,7 +41,7 @@ export const query = graphql`
     html
     frontmatter {
       title
-      date
+      date(formatString: "MMMM DD, YYYY")
       slug
     }
   }

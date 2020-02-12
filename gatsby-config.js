@@ -17,6 +17,22 @@ module.exports = {
       },
     },
     {
+      resolve: `gatsby-plugin-prefetch-google-fonts`,
+      options: {
+        fonts: [
+          {
+            family: `Questrial`,
+            variants: [`400`,],
+            subsets: [`latin`],
+          },
+          // {
+          //   family: `Roboto`,
+          //   subsets: [`latin`]
+          // },
+        ],
+      },
+    },
+    {
       resolve: `gatsby-source-filesystem`,
       options: {
         name: `images`,
