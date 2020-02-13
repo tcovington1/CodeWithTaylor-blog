@@ -1,17 +1,39 @@
 ---
 slug: /100_days_of_code
 date: '2020-01-31'
-title: ' #100DaysOfCode (RD 2)'
+title: ' 100 Days Of Code'
 ---
 Hey thank you for coming on this journey with me!
+
+I've decided to start round 2 of the #100DaysOfCode challenge from [Twitter](https://twitter.com/codewithtaylor). You're probably familiar with the hashtag already, but if not check it out [here](https://twitter.com/search?q=%23100DaysOfCode&src=typeahead_click). Twitter has a fantastic dev community! There are a ton of new people learning to code with you, so it's nice knowing you're not alone. When you struggle, there is someone out there struggling as well.
+
+The first round I did of #100DaysOfCode was really successful. Check it out on my [Twitter page](https://twitter.com/codewithtaylor). I started it before I went into my dev bootcamp, and ended after I finished. It helped me stay accountable and sharing my progress. 
+
+### --- Goals ---
+
+I'm going to post what I'm working on every day here in this blog. In these 100 days I want to:         
+
+1. Blog and post my progress often         
+2. Code and contribute to GitHub daily (obvious one)
+3. Build build build - a goal of mine is to really push building full-stack app           and web sites without a tutorial. I want to get stuck, search the docs, and 
+            fix it.
+4. Work as a full-time developer.
 
 I'll be updating this post often with what I'm working on, what I did, and thoughts a long the way! So come back when you'd like to see what's been going on. In my previous [post](https://codewithtaylor.com/posts%20/100-days-note-beforehttps://codewithtaylor.com/posts%20/100-days-note-before) I mentioned some goals I'll be looking to achieve during these 100 days of coding.
 
 Before I started, here's a little context about what I've been working on:
 
-Before I started to code, I did have other hobbies :) and one was I love to watch football. I've always loved watching college football and see how the players develop and get into the NFL. Well now most of my time goes to coding so I don't have as much time to sit and watch the players. SO I decided to create a website to track my favorite players in the NFL, I'll call it *"Utes in The NFL"* for now. It's a full-stack website using Ruby on Rails and PostgreSQL for the back-end, and React.js for the front-end. It's a CRUD (Create, Read, Update, Delete) site where I can continue working on my skills. I'll share links later when it's at a good spot and hosted on Heroku.
+* Utes in the NFL app - React.js, Ruby on Rails
+  * React.js | Ruby on Rails
+  * Football is a passion of mine but I don't have much time to watch. So I'm building a site to track and display all of my favorite college football players in the NFL.
 
-I'm also working on my spare time (after my full-time job, parenting, and being a husband) as a freelance developer with a good friend of mine. I've got my second client, where I'll be creating a portfolio photography web site. We're using Sketch to create a prototype, and we'll see what tools or languages we'll use to build the best site. 
+* Interview tracking app
+  * MERN stack
+  * I allow my curiousity to drive my learning. I've always wanted to learn Node and MongoDB for the back-end so I've started learning and I'm applying it to this app.
+
+I'm also working on my spare time (after my full-time job, parenting, and being a husband) as a freelance developer with a good friend of mine. We have our second client, where we'll be creating a portfolio photography web site.
+
+So I'm doing a ton right now but each day I've organized my time to allow about 2-3 hours to study and code. At the end of the day I'm writing down 'todos' so I know what my goals are for the next day.
 
 Let's get started!
 
