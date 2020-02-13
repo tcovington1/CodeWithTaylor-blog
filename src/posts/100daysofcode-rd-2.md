@@ -74,9 +74,15 @@ Let's get started!
 ---
 
 ### Days 7 - 11
-February 10th, 2020
+02/12/20
 * It's been a busy week. Over the weekend I decided to start a larger React on Rails project called *DevChat*. I wanted to start a project with more advanced associations such as a User has many Posts and Posts have many comments. Then Posts belong to Users, and comments belongs to Posts. These associations are created in your routes.
 * Today I got my first rejection email from a company I applied for in early January. The first interview went really well, the team was great! I then met a week later with the CEO. To be honest, I thought I did really well and impressed the team. But this time it just didn't work out. I'll be writing another post about this first coding interview soon.
 * I also had another interview for another company. The interview was a video chat that lasted about 15 minutes. Mostly general questions about me, my projects, why development. Things went well! A few hours later a received a rejection email. So 0/2 so far but the hustle doesn't stop
 * A recent phrase I've learned is **Humble & Hungry**, I think I'll start living my this because I feel like it explains who I am well. 
 * Lastly, I started a course on Udemy to learn the MERN stack. I want more flexibility with my apps and to add this to my stack offering!
+
+---
+### Days 12-13
+02/12/20
+* My DevChat app is going well! I've been able to create users and add, update, and delete posts! I'm having a weird issue with the form. Anytime I add a new post, it shows up in the form so I'll need to figure this out. Also, when I log into a new user and create a post it shows on the other users page. Seems odd but it must be something in the controller on the Rails side.
+* I've also wanted to start learning some MERN (MongoDB, Express, React, and Node) so I can be more diverse in JS so I started a MERN course to start learning more about it. This course uses Next.js as on the front-end. I always let my curiosity lead my learning. I've heard great things about building full-stack applications with MERN. We'll see how it goes!
