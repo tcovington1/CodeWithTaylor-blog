@@ -5,3 +5,7 @@ Things that need to get done:
 
 -- I've added in gatsby.config an updated at field, this could be good to
     render on the postLayout component.
+
+
+Disqus
+    codewithtaylor.disqus.com
