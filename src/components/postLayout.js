@@ -1,6 +1,8 @@
 import React, { Component } from 'react'
 import { graphql,  } from 'gatsby'
 import { Link } from "gatsby"
+// import { Disqus, CommentCount } from 'gatsby-plugin-disqus'
+import { DiscussionEmbed } from 'disqus-react' 
 
 
 import SEO from '../components/seo'
@@ -14,8 +16,14 @@ import Layout from './layout'
 
 export default class postLayout extends Component {
   render() {
+
     const { markdownRemark } = this.props.data;
     const { location } = this.props;
+    const disqusShortname = "codewithtaylor.disqus.com";
+    const disqusConfig = {
+      identifier: markdownRemark.frontmatter.slug,
+      title: markdownRemark.frontmatter.title,
+    };
     return (
       <Layout location={location}>
         <SEO title="Posts" />
@@ -24,7 +32,10 @@ export default class postLayout extends Component {
         <div dangerouslySetInnerHTML={{
           __html: markdownRemark.html
         }}/>
-        <button className='btn'><Link to='/' className='btn-link'>Back</Link></button>
+         {/* <CommentCount config={disqusConfig} placeholder={'...'} />
+      <Disqus config={disqusConfig} /> */}
+      <DiscussionEmbed shortname={disqusShortname} config={disqusConfig} />
+      <button className='btn'><Link to='/' className='btn-link'>Back</Link></button>
         <button className='btn' style={{marginLeft: '1em'}}><a href='https://www.taylorjcovington.com/#contact' className='btn-link'>Send a Message</a></button>
       </Layout>
     )
