@@ -2,7 +2,7 @@
 slug: /bootcamp-my-experience
 date: '2020-01-02'
 updated: '2020-02-15'
-string: '10 MIN READ'
+readtime: 10 MIN READ
 title: Coding Bootcamp - My Experience & What to Expect
 ---
 I recently graduated from the **DevPoint Labs 11-week Part-Time Full-Stack Web Development bootcamp** and I wanted to share my experience and what to expect along the way. If you're like me, preparation is key in all things so I hope you find this post helpful!
