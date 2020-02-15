@@ -1,6 +1,8 @@
 ---
 slug: /bootcamp-my-experience
 date: '2020-01-02'
+updated: '2020-02-15'
+string: 10 MIN READ
 title: Coding Bootcamp - My Experience & What to Expect
 ---
 I recently graduated from the **DevPoint Labs 11-week Part-Time Full-Stack Web Development bootcamp** and I wanted to share my experience and what to expect along the way. If you're like me, preparation is key in all things so I hope you find this post helpful!
@@ -9,11 +11,11 @@ Note: This post is pretty long so break it up into sections and come back to it!
 
 ### Before
 
-Before I decided to go to a bootcamp I was teaching myself to code. I started about a year before, but it'd start and stop often when I felt discouraged or overwhelmed with having to choose a direction. There's so much information when you're getting started and it seems to keep changing. This still happens to me sometimes a year later!
+Before I decided to go to a bootcamp I was teaching myself to code. I started about a year before, but I would start and stop often when I felt discouraged or overwhelmed with having to choose a direction. There's so much information when you're getting started and it seems to keep changing. This still happens to me sometimes a year later!
 
-Before you start at a bootcamp, the most important thing is to do your research on the camp you're going to. More and more nowadays there are bootcamps popping up, local and online.  I've heard a few stories about some camps getting you signed up, take your money, and don't fulfill their promises. So do some research. Here are a few sites that might help:
+Before you start at a bootcamp, the most important thing is to do your research on the camp you're going to. More and more nowadays there are bootcamps popping up, local and online.  I've heard a few stories about some camps getting you signed up, take your money, and they don't fulfill their promises. So do some research.
 
-The next thing I'd recommend before getting started is to learn the basics of HTML, CSS, and Javascript ( depending on what type of bootcamp you attend ). The bootcamp I went to have us pre-course study materials to learn these basics. This was super helpful even though I had already studied the basics. I still took 2 weeks on each to learn all that I could before I attended. The reason I think this is a must is because when I started day 1, they didn't teach these. It was expected that we know this already.
+The next thing I'd recommend before getting started is to learn the basics of HTML, CSS, and Javascript ( depending on what type of bootcamp you attend ). The bootcamp I went to gave us pre-course study materials to learn these basics. This was super helpful even though I had already studied the basics. I still studied for 2 weeks on each to learn all that I could before I attended. The reason I think this is a must is because when I started on day one, they didn't teach these. It was expected that we know this already.
 
 Also, don't worry about who else will be in the class or it you'll fit in. I attended bootcamp at the at of 28 and I thought I'd be older in the class. I soon found out that most of the people in my class were my age! 
 
