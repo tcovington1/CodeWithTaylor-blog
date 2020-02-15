@@ -65,6 +65,7 @@ const Listing = () => (
           <p>{node.frontmatter.date}</p>
           <p>{node.excerpt}</p>
           <Link class='read-more' to={`/posts${node.frontmatter.slug}`}>Read More</Link>
+          <p>Read time{node.frontmatter.readtime}</p>
         </Post>
       ))
     )}
