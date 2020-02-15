@@ -46,6 +46,11 @@ const LISTING_QUERY = graphql`
       text-decoration: underline;
       color: #04756F;
     }
+
+    &:hover {
+    transform: translateY(-3px)
+}
+
   `;
 
 const Listing = () => (
