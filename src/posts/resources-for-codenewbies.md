@@ -3,8 +3,6 @@ slug: /code_resources
 date: '2020-02-01'
 title: ' Resources for #CodeNewbies'
 ---
-Hey, me again!
-
 Today I want to share some resources that I feel are helpful when you're starting out in Web Development. These are resources I came across and I would have loved to have them all in one place! So If you find this post helpful, bookmark it and refer back to it when you need.
 
 ### Roadmap

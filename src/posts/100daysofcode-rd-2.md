@@ -3,7 +3,7 @@ slug: /100_days_of_code
 date: '2020-01-31'
 title: ' 100 Days Of Code'
 ---
-Hey thank you for coming on this journey with me!
+Thank you for coming on this journey with me!
 
 I've decided to start round 2 of the #100DaysOfCode challenge from [Twitter](https://twitter.com/codewithtaylor). You're probably familiar with the hashtag already, but if not check it out [here](https://twitter.com/search?q=%23100DaysOfCode&src=typeahead_click). Twitter has a fantastic dev community! There are a ton of new people learning to code with you, so it's nice knowing you're not alone. When you struggle, there is someone out there struggling as well.
 
