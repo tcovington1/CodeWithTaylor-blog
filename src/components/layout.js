@@ -98,9 +98,9 @@ const Layout = ({ children, location }) => {
           © {new Date().getFullYear()} {data.site.siteMetadata.author}, Built with Gatsby
         </div>
         <div className="footer-flex">
-          <Link to='https://twitter.com/codewithtaylor'>
+          {/* <Link to='https://twitter.com/codewithtaylor'>
             <img src={twitterIcon}/>
-          </Link>
+          </Link> */}
         </div>
       </footer>
     </>

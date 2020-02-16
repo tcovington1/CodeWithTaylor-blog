@@ -28,7 +28,16 @@ export default class postLayout extends Component {
       <Layout location={location}>
         <SEO title="Posts" />
         <h1>{markdownRemark.frontmatter.title}</h1>
-        <p><i>Created: {markdownRemark.frontmatter.date}</i></p>
+        {/* <p><i>Created: {markdownRemark.frontmatter.date}</i></p> */}
+        <div className="post-footer">
+          {
+            markdownRemark.frontmatter.updated ?
+            <p><i>Last Updated: {markdownRemark.frontmatter.updated}</i></p>
+            :
+            null
+          }
+          <p>{markdownRemark.frontmatter.readtime}</p>
+        </div>
         <div dangerouslySetInnerHTML={{
           __html: markdownRemark.html
         }}/>
@@ -53,6 +62,8 @@ export const query = graphql`
       title
       date(formatString: "MMMM DD, YYYY")
       slug
+      updated(formatString: "MMMM DD, YYYY")
+      readtime
     }
   }
 }

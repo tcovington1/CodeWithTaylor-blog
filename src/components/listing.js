@@ -18,6 +18,7 @@ const LISTING_QUERY = graphql`
               date(formatString: "MMMM DD, YYYY")
               title
               slug
+              readtime
             }
           }
         }
@@ -64,8 +65,10 @@ const Listing = () => (
           </Link>
           <p>{node.frontmatter.date}</p>
           <p>{node.excerpt}</p>
-          <Link class='read-more' to={`/posts${node.frontmatter.slug}`}>Read More</Link>
-          <p>{node.frontmatter.readtime}</p>
+          <div className="post-footer">
+            <Link class='read-more' to={`/posts${node.frontmatter.slug}`}>Read More</Link>
+            <p>{node.frontmatter.readtime}</p>
+          </div>
         </Post>
       ))
     )}
