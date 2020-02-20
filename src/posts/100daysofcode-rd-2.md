@@ -29,9 +29,9 @@ Before I started, here's a little context about what I've been working on:
   * React.js | Ruby on Rails
   * Football is a passion of mine but I don't have much time to watch. So I'm building a site to track and display all of my favorite college football players in the NFL.
 
-* Interview tracking app
+* DevChat app
   * MERN stack
-  * I allow my curiousity to drive my learning. I've always wanted to learn Node and MongoDB for the back-end so I've started learning and I'm applying it to this app.
+  * I allow my curiosity to drive my learning. I've always wanted to learn Node and MongoDB for the back-end so I've started learning and I'm applying it to this app.
 
 I'm also working on my spare time (after my full-time job, parenting, and being a husband) as a freelance developer with a good friend of mine. We have our second client, where we'll be creating a portfolio photography web site.
 
@@ -100,14 +100,13 @@ Let's get started!
 ### Days 7 - 11
 02/12/20
 * It's been a busy week. Over the weekend I decided to start a larger React on Rails project called *DevChat*. I wanted to start a project with more advanced associations such as a User has many Posts and Posts have many comments. Then Posts belong to Users, and comments belongs to Posts. These associations are created in your routes.
-* A recent phrase I've learned is **Humble & Hungry**, I think I'll start living my this because I feel like it explains who I am well. 
+* A recent phrase I've learned is **Humble & Hungry**, I think I'll start living by this because I feel like it explains who I am well. 
 * Lastly, I started a course on Udemy to learn the MERN stack. I want more flexibility with my apps and to add this to my stack offering!
 
 ---
 ### Days 12-13
 02/12/20
-* My DevChat app is going well! I've been able to create users and add, update, and delete posts! I'm having a weird issue with the form. Anytime I add a new post, it shows up in the form so I'll need to figure this out. Also, when I log into a new user and create a post it shows on the other users page. Seems odd but it must be something in the controller on the Rails side.
-*  In the MERN course I've been learning about how to navigate the Next.js framework and today we connected a MongoDB Atlas cluster with Next.js. 
+* My DevChat app is going well! I've decided to start writing it using the MERN stack instead of Ruby on Rails. Since I'm going through a MERN course, I'm going to use this to grow my knowledge and apply it to this project. I also like the flexibility of using Node.js and MongoDB for a back-end so far!
 
 ---
 ### Days 14-20
@@ -115,5 +114,5 @@ Let's get started!
 * Sick kids.... sick dad... === no sleep. But I still coded!
 * This past week I've decided to go through my [portfolio](https://taylorjcovington.com) and my blog posts to refactor code and content.
 * I had noticed as I was reading over my first 13 days, I've changed my projects a lot! So I've decided I'm going to stick to one large project and updating projects along the way (such as my portfolio site and blog).
-* My large project I'm working on is a MERN full-stack website (MongoDB, Express, Node.js, React.js). This site will be a "DevChat" site when I'll have user authentication where you can log into a profile, create posts, and others can comment on your posts.
+* My large project will be the MERN DevChat app. This app will have user authentication where you can log into a profile, create posts, and others can comment on your posts.
 * I'll be using the [Udemy.com](https://www.udemy.com/https://www.udemy.com/) course by Brad Traversy called ["MERN Stack Front To Back"](https://www.udemy.com/course/mern-stack-front-to-back/https://www.udemy.com/course/mern-stack-front-to-back/)
