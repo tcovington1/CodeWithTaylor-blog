@@ -1,6 +1,8 @@
 ---
 slug: /100_days_of_code
 date: '2020-01-31'
+updated: '2020-02-19'
+readtime: 10 min read
 title: ' 100 Days Of Code'
 ---
 Thank you for coming on this journey with me!
@@ -106,3 +108,12 @@ Let's get started!
 02/12/20
 * My DevChat app is going well! I've been able to create users and add, update, and delete posts! I'm having a weird issue with the form. Anytime I add a new post, it shows up in the form so I'll need to figure this out. Also, when I log into a new user and create a post it shows on the other users page. Seems odd but it must be something in the controller on the Rails side.
 *  In the MERN course I've been learning about how to navigate the Next.js framework and today we connected a MongoDB Atlas cluster with Next.js. 
+
+---
+### Days 14-20
+02/19/20
+* Sick kids.... sick dad... === no sleep. But I still coded!
+* This past week I've decided to go through my [portfolio](https://taylorjcovington.com) and my blog posts to refactor code and content.
+* I had noticed as I was reading over my first 13 days, I've changed my projects a lot! So I've decided I'm going to stick to one large project and updating projects along the way (such as my portfolio site and blog).
+* My large project I'm working on is a MERN full-stack website (MongoDB, Express, Node.js, React.js). This site will be a "DevChat" site when I'll have user authentication where you can log into a profile, create posts, and others can comment on your posts.
+* I'll be using the [Udemy.com](https://www.udemy.com/https://www.udemy.com/) course by Brad Traversy called ["MERN Stack Front To Back"](https://www.udemy.com/course/mern-stack-front-to-back/https://www.udemy.com/course/mern-stack-front-to-back/)
