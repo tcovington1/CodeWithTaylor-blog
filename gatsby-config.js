@@ -17,19 +17,16 @@ module.exports = {
       },
     },
     {
-      resolve: `gatsby-plugin-prefetch-google-fonts`,
+      resolve: `gatsby-plugin-webfonts`,
       options: {
-        fonts: [
-          {
-            family: `Questrial`,
-            variants: [`400`,],
-            subsets: [`latin`],
-          },
-          // {
-          //   family: `Roboto`,
-          //   subsets: [`latin`]
-          // },
-        ],
+        fonts: {
+          google: [
+            {
+              family: "Roboto",
+              variants: ["300", "400", "500"],
+            },
+          ],
+        },
       },
     },
     {
