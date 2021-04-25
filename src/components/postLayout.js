@@ -3,8 +3,6 @@ import { graphql,  } from 'gatsby'
 import { Link } from "gatsby"
 import { DiscussionEmbed } from "disqus-react";
 
-
-
 import SEO from '../components/seo'
 import Layout from './layout'
 
@@ -12,7 +10,7 @@ import Layout from './layout'
 // Used anywhere, doesn't accept variables, can't use context
 
 //Page Query
-//Must be use on pages
+//Must be used on pages
 
 export default class postLayout extends Component {
   render() {

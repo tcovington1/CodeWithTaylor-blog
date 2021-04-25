@@ -16,9 +16,6 @@ import { Icon, InlineIcon } from '@iconify/react';
 import twitterIcon from '@iconify/icons-logos/twitter';
 import githubIcon from '@iconify/icons-logos/github-icon';
 
-
-
-
 import Header from "./header"
 import Archive from './archive'
 import "./layout.css"
@@ -95,7 +92,7 @@ const Layout = ({ children, location }) => {
           <a href="https://www.taylorjcovington.com/#contact">Send a Message</a>
         </div>
         <div className="footer-flex">
-          © {new Date().getFullYear()} {data.site.siteMetadata.author}, Built with Gatsby
+          © {new Date().getFullYear()} {data.site.siteMetadata.author}, Built with Gatsby & GraphQL
         </div>
         <div className="footer-flex">
           {/* <Link to='https://twitter.com/codewithtaylor'>

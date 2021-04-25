@@ -28,6 +28,10 @@
     transform: translateY(-3px)
 }
 
+.btn-inverse {
+
+}
+
 .btn-link {
   text-decoration: none;
   color: #04756F;

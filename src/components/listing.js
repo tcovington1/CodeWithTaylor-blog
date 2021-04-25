@@ -44,7 +44,7 @@ const LISTING_QUERY = graphql`
     .read-more {
       /* font-family: ; */
       font-size: 0.8rem;
-      text-decoration: underline;
+      text-decoration: none;
       color: #04756F;
     }
 
